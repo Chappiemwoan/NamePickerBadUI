@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\bin\Debug\BadUIbattle.exe.config
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\bin\Debug\BadUIbattle.exe
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\bin\Debug\BadUIbattle.pdb
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.Form1.resources
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.Properties.Resources.resources
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.exe
+C:\Users\lucas\source\repos\BadUIbattle\BadUIbattle\obj\Debug\BadUIbattle.pdb
